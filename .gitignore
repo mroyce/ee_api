@@ -10,6 +10,7 @@ logfile
 pip-*.json
 .Python
 bin/
+include/
 lib/
 
 # mediafiles
