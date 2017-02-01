@@ -1,0 +1,17 @@
+*.pyc
+*.swp
+*.DS_Store
+*~
+*.log
+logfile
+*.sqlite3
+
+# pip
+pip-*.json
+.Python
+bin/
+lib/
+
+# mediafiles
+media/
+
